@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ToggleButton (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ToggleButton (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
