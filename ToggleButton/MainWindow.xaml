@@ -13,9 +13,7 @@
         HorizontalAlignment="Center" VerticalAlignment="Center" 
         Spacing="20">
 
-        <!--Simple ToggleButtom-->
-                   
-        <!--Toggle ToggleButtom-->
+        <!-- ToggleButton -->
 
     </StackPanel>
 </Window>
